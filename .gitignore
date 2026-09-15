@@ -1,0 +1,14 @@
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/storage/*.key
+/storage/app/private
+/storage/app/public/videos/*
+!/storage/app/public/videos/.gitignore
+/vendor
+.env
+.env.backup
+npm-debug.log
+yarn-error.log
+
